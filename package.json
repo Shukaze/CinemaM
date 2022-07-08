@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "debug": "^4.1.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react-redux": "^5.0.7",
     "saslprep": "^1.0.3",
     "supports-color": "^7.1.0",
